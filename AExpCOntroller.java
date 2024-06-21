@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class AExpCOntroller {
+public class AExpCOntroller {
+    public static void run(){
+        System.out.println("Hello World!");
+    }
 }
